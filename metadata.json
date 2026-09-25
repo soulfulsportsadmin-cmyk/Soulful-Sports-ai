@@ -1,0 +1,6 @@
+{
+  "name": "SvaraAI - Malayalam & Multilingual AI Voiceover Studio",
+  "description": "Professional AI Text-to-Speech & Voiceover Generator tailored for Malayalam and multilingual audio productions with real-time waveform preview and instant audio download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
